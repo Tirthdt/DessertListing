@@ -69,6 +69,8 @@
   cursor: pointer;
   border-radius: 34px;
   border: 1px solid var(--red);
+  color: var(--rose-900);
+  font-weight: 300;
   width: 200px;
   display: flex;
   align-items: center;
